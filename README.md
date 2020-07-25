@@ -15,6 +15,11 @@ How to launch:
 
 this will start a rest api server sitting on 127.0.0.1:5000 and waiting, the end point is "127.0.0.1:5000/parser/website"
 
+Screenshot:
+
+![Screenshot_82](https://user-images.githubusercontent.com/4441068/88445721-5eb25700-ce46-11ea-9ccf-cb7f9ba041c1.png)
+
+
 It can only parse tengrinews.kz website. However it records any incoming request to a local postgre db.
 
 
