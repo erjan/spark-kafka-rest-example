@@ -11,8 +11,10 @@ this project consists of:
 
 How to launch:
 
-python app.py
+'python app.py'
 
-this will start a rest api server sitting on 127.0.0.1:5000 and waiting
+this will start a rest api server sitting on 127.0.0.1:5000 and waiting, the end point is "127.0.0.1:5000/parser/website"
 
-the end point is "127.0.0.1:5000/parser/website"
+It can only parse tengrinews.kz website. However it records any incoming request to a local postgre db.
+
+
