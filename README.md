@@ -34,26 +34,22 @@ Screenshot:
 ![Screenshot_84](https://user-images.githubusercontent.com/4441068/88445727-71c52700-ce46-11ea-90ca-ed9ba5563817.png)
 
 
-Parsing starts, the output is this:
+Parsing starts, the sample output is this:
 
-Serving Flask app "app" (lazy loading)
-Environment: production 
-Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-127.0.0.1 - - [25/Jul/2020 08:44:34] "?[37mGET / HTTP/1.1?[0m" 200 -
+- Serving Flask app "app" (lazy loading)
+- Environment: production 
+- Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+- 127.0.0.1 - - [25/Jul/2020 08:44:34] "?[37mGET / HTTP/1.1?[0m" 200 -
 
- DATES -------------------------------------------------------------------------------
+DATES -------------------------------------------------------------------------------
 
 25 July 2020, 03:16
 25 July 2020, 06:31
-25 July 2020, 04:10
-25 July 2020, 04:45
-25 July 2020, 02:22
-25 July 2020, 01:32
-24 July 2020, 23:57
+
 URL LINKS----------------------------------------------------------------------------
 
 ['https://tengrinews.kz/world_news/v-mire-zafiksirovan-rekordnyiy-skachok-zarajeniy-covid-19-409426/', 'https://tengrinews.kz/kazakhstan_news/immunitet-koronavirusu-poyavilsya-polovinyi-kazahstantsev-409431/', 'https://tengrinews.kz/kazakhstan_news/nazvano-uslovie-pozvolyayuschee-ne-nosit-masku-na-ulitse-409427/', 'https://tengrinews.kz/crime/v-otkryityiy-dostup-vyilojili-foto-vseh-pedofilov-kazahstana-409428/', 'https://tengrinews.kz/kazakhstan_news/patsient-100-protsentnyim-porajeniem-legkih-obratilsya-409425/', 'https://tengrinews.kz/sports/magomed-ismailov-izbil-i-nokautiroval-aleksandra-emelyanenko-409424/', 'https://tengrinews.kz/kazakhstan_news/jurnalistyi-pokazali-proishodit-plyajah-burabaya-pervyiy-den-409422/']
-['409426', '409431', '409427', '409428', '409425', '409424', '409422']
+
 NUM COMMENTS-----------------------------------------------------------
 
 5
@@ -63,6 +59,7 @@ NUM COMMENTS-----------------------------------------------------------
 19
 25
 20
+
 NEWS HEADERS-----------------------------------------------------------
 
 В мире зафиксирован рекордный скачок заражений COVID-19
@@ -72,6 +69,7 @@ NEWS HEADERS-----------------------------------------------------------
 Пациент со 100-процентным поражением легких обратился к врачам Алматы
 Магомед Исмаилов избил и нокаутировал Александра Емельяненко
 Журналисты показали, что происходит на пляжах Бурабая в первый день после запрета
+
 ---------DATES LENGTH-----------
 7
 ---------URL LINKS LENGTH-----------
@@ -84,10 +82,13 @@ LENGTH OF main_data 7
 
 length of result data 7
 producer sending a blob
+
 -----------------NEWS METADATA-----------------
+
 Магомед Исмаилов избил и нокаутировал Александра Емельяненко
 
 --------------COMMENTS--------------
+
 ['Rinat Tahirovich', '25 July 2020 02:26', 'помоиму Емельяненко к бою совсем неготовился, а только постил посты про своего
 брата и его отношения с ним, а о бое вообще не думал']
 ['КЗ РК', '25 July 2020 07:39', 'Rinat Tahirovich, говорят что матч купленный, очень заинтересованной персоной с Кавказа)))сами поняли кем)))']
