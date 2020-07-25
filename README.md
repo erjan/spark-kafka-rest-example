@@ -72,12 +72,16 @@ NEWS HEADERS-----------------------------------------------------------
 
 ---------DATES LENGTH-----------
 7
+
 ---------URL LINKS LENGTH-----------
 7
+
 ---------NUM COMMENTS LENGTH-----------
 7
+
 ---------NEWS HEADERS LENGTH-----------
 7
+
 LENGTH OF main_data 7
 
 length of result data 7
